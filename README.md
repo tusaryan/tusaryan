@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <img src="https://spring.io/img/projects/spring-cloud.svg" alt="Spring Cloud" width="40" height="40"/>
   <img src="https://spring.io/img/projects/spring-security.svg" alt="Spring Security" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://spring.io/img/extra/microservices-5.svg" alt="Microservices" width="40" height="40" style="filter: invert(1);"/>
+  <img src="https://spring.io/img/extra/microservices-5.svg" alt="Microservices" width="40" height="40" style="background-color: white; filter: invert(1);"/>
 </p>
 
 <h3>💾 Databases</h3>
