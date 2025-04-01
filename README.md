@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/tusaryan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://t.me/aryankr313" target="_blank"><img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <a href = "mailto:aryankumar79922@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Detailed Profile and Project: </h3>
+<a href="https://github.com/tusaryan/Projects" target="#Project"><p>Click here</p></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tusaryan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Aryan Kumar Linkedin" height="30" width="40" /></a><a href="https://t.me/aryankr313" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="aryankr313" height="40" width="40" /></a><a href="https://discord.com/channels/_tunuaryan.sharma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="_tunuaryan.sharma_" height="40" width="40" /></a><a href="https://discord.gg/aeFBt4CD" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="My Discord Server" height="40" width="40" /></a><!-- <a href="https://www.leetcode.com/tusaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="tusaryan" height="30" width="40" /></a><a href="https://codeforces.com/profile/tusaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="tusaryan" height="30" width="40" /></a><a href="https://dev.to/tusaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="tusaryan" height="30" width="40" /></a><a href="https://www.codechef.com/users/tusaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="tusaryan" height="30" width="40" /></a> --></p>
@@ -118,4 +120,7 @@ Here are some ideas to get you started:
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=tusaryan&theme=react-dark"/>
+
+
+
 
