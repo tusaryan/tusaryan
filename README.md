@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Full Stack Projects **
 - 👯 I’m looking to collaborate on **Open Source Community**
 - 💬 Ask me about **Spring Boot, Java, Microservices, React , Node, TailwindCSS**
-- 📫 How to reach me **aryankumar79922@gmail.com**
+- 📫 How to reach me **aryankumartus@gmail.com**
 - 👨‍💻 All of my Projects are available at **https://github.com/tusaryan/Projects**
 
 <div> <a href="https://www.linkedin.com/in/tusaryan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
