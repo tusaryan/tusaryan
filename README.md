@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Open Source Community** and 
 - 🌟 **Google Summer of Code'25 Developer** contributed to **Apache DolphinScheduler**.
 - 💬 Ask me about **Full-Stack, ML, RAG, and LangGraph**.
-- 🚀 **Hackathon Competitor** (Regional Semi-finalist in NASA Space Apps Challenge & Amazon ML Challenge).
+- 🚀 **Hackathon Competitor** (Regional Semi-finalist in NASA Space Apps Challenge & Participated in Amazon ML Challenge).
 - 👨‍💻 All of my Projects are available at **[Projects Link](https://tusaryan.github.io/Aryan-Portfolio/#projects)**
 - 📫 Reach me at **aryankumartus@gmail.com**.
 
