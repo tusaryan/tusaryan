@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <a href = "mailto:aryankumartus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </a>
   <a href="https://tusaryan.github.io/Aryan-Portfolio/" target="_blank">
-    <img src="public/Portfolio.png" height="28" alt="Portfolio" />
+    <img src="public/Portfolio.png" height="40" alt="Portfolio" />
 </a>
 </p>
 
