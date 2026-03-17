@@ -26,9 +26,16 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my Projects are available at **[Projects Link](https://tusaryan.github.io/Aryan-Portfolio/#projects)**
 - 📫 Reach me at **aryankumartus@gmail.com**.
 
+`✨ Portfolio ✨`  
+<p>
+<a>
+  <a href="https://tusaryan.github.io/Aryan-Portfolio/" target="_blank">
+    <img src="public/Portfolio.png" height="40" alt="Portfolio" />
+  </a>
+</p>
+
 
 `✨ My skills ✨`  
-
 ![My Skills](https://skillicons.dev/icons?i=java,python,javascript,react,spring,nodejs,gcp,aws,kubernetes,docker,kafka,mysql,postgresql,redis,github&theme=light)
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
@@ -39,12 +46,8 @@ Here are some ideas to get you started:
 <h3 align="left">📫 Let's Connect</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tusaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meteatamel" height="30" width="40" /></a>
-<a href="https://github.com/tusaryan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<!-- <a href="https://github.com/tusaryan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> -->
 <a href = "mailto:aryankumartus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</a>
-  <a href="https://tusaryan.github.io/Aryan-Portfolio/" target="_blank">
-    <img src="public/Portfolio.png" height="40" alt="Portfolio" />
-</a>
 </p>
 
 
