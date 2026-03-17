@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my Projects are available at **[Projects Link](https://tusaryan.github.io/Aryan-Portfolio/#projects)**
 - 📫 Reach me at **aryankumartus@gmail.com**.
 
-- 
+
 `✨ My skills ✨`  
 
 ![My Skills](https://skillicons.dev/icons?i=java,python,javascript,react,spring,nodejs,gcp,aws,kubernetes,docker,kafka,mysql,postgresql,redis,github&theme=light)
