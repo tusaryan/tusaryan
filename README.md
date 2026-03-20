@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 `✨ Portfolio ✨`  
 <p>
 <a>
-  <a href="https://tusaryan.github.io/Aryan-Portfolio/" target="_blank">
+  <!-- <a href="https://tusaryan.github.io/Aryan-Portfolio/" target="_blank">
     <img src="public/Portfolio.png" height="40" alt="Portfolio" />
-  </a>
+  </a> -->
+  <a href="https://tusaryan.github.io/Aryan-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/my%20portfolio%20website-navy?style=for-the-badge&logo=airplayvideo" alt="Website"/></a>
 </p>
 
 
@@ -43,14 +44,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/LangGraph-333333?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
 </p>
 
-<h3 align="left">📫 Let's Connect</h3>
+<h3 align="center">Get in Touch! 📬</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tusaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meteatamel" height="30" width="40" /></a>
-<!-- <a href="https://github.com/tusaryan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> -->
-<a href = "mailto:aryankumartus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/tusaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meteatamel" height="30" width="40" /></a>
+  <!-- <a href="https://github.com/tusaryan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> -->
+  <a href = "mailto:aryankumartus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/aryankumartus@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.github.com/tusaryan" target="_blank"><img src="https://img.shields.io/badge/tusaryan-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-
-
 
 
 <!-- </div><h3 align="left">My Portfolio: </h3>
