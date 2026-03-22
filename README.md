@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusaryan&label=Profile%20views&color=0e75b6&style=flat" alt="tusaryan" /> </p>
 
 - 🔭 I’m currently building **scalable microservices and Agentic AI orchestration systems**.
-- 👯 I’m looking to collaborate on **Open Source Community** and 
+- 👯 I’m looking to collaborate on Open Source projects and actively seeking Full-Time or Internship roles (Remote preferred) starting Summer 2026.
 - 🌟 **Google Summer of Code'25 Developer** contributed to **Apache DolphinScheduler**.
 - 💬 Ask me about **Full-Stack, ML, RAG, and LangGraph**.
 - 🚀 **Hackathon Competitor** (Regional Semi-finalist in NASA Space Apps Challenge & Participated in Amazon ML Challenge).
