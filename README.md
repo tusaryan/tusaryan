@@ -63,9 +63,16 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusaryan&layout=compact&theme=dark" alt=tusaryan />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=tusaryan&show_icons=true&locale=en&theme=dark" alt="tusaryan" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tusaryan&layout=compact&theme=dark" height="180em" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=tusaryan&show_icons=true&locale=en&theme=dark" height="180em" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tusaryan&theme=dark" alt="tusaryan" /></p>
 
