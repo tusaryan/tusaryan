@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">Software Engineer | Machine Learning, Agentic AI & Full-Stack Development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusaryan&label=Profile%20views&color=0e75b6&style=flat" alt="tusaryan" /> </p>
 
-- 🌟 **Google Summer of Code'25 Developer** contributed to **Apache DolphinScheduler**.
+- 🌟 **Google Summer of Code'25 Contributor** - **Apache Software Foundation (Apache DolphinScheduler)**.
 - 👯 I’m looking to collaborate on Open Source projects and actively seeking Full-Time or Internship roles (Remote preferred) starting Summer 2026.
 - 🔭 I’m currently building **scalable microservices and Agentic AI orchestration systems**.
 - 💬 Ask me about **Full-Stack, ML, RAG, and LangGraph**.
