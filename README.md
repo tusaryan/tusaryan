@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 `✨ My skills ✨`  
-![My Skills](https://skillicons.dev/icons?i=java,python,javascript,react,spring,nodejs,gcp,aws,kubernetes,docker,kafka,mysql,postgresql,redis,github&theme=light)
+![My Skills](https://skillicons.dev/icons?i=java,python,go,javascript,react,spring,nodejs,gcp,aws,kubernetes,docker,kafka,mysql,postgresql,redis,github&theme=light)
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
   <img src="https://media.licdn.com/dms/image/v2/D5612AQGrHQ2cCid0tw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1692949620184?e=2147483647&v=beta&t=O-mAgqRKRElzfR86dBzmmxO6ATVNcKYOwQML3TM_bEQ" width="80" height="60"/>
